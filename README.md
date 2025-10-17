@@ -7,7 +7,8 @@ Analizar el comportamiento de ventas por país, destacando mercados clave y opor
 Estudiar la evolución mensual de compras e ingresos (2010–2011), incluyendo picos estacionales.
 Calcular métricas clave como el promedio de gasto por transacción y cantidad promedio por producto, segmentadas por país y mes.
 Visualizar mediante gráficos interactivos: barras, líneas, mapas de calor, etc.
-🛠 Tecnologías utilizadas
+
+Tecnologías utilizadas
 Python
 Pandas 
 Matplotlib y Seaborn 
